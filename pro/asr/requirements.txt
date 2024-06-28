@@ -1,0 +1,8 @@
+tkinter
+scipy
+sounddevice
+matplotlib
+torch
+numpy
+python_speech_features
+webrtcvad
